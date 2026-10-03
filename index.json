@@ -1,0 +1,4 @@
+{
+  "categories": [],
+  "note": "Los canales se cargan en vivo desde m3u_url en config.json / manifest.json"
+}

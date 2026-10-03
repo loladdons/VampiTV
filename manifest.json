@@ -1,0 +1,11 @@
+{
+  "id": "argentina.live",
+  "name": "Argentina Live",
+  "version": "1.0.0",
+  "description": "Canales de Argentina y LATAM desde lista M3U pública. Agrupa por país/categoría.",
+  "author": "loladdons",
+  "logo": "https://raw.githubusercontent.com/ice-dev-x/kino-iptv-org-clean/main/icon.png",
+  "m3u_url": "https://raw.githubusercontent.com/nicor1029/Argentina/refs/heads/main/arglo.m3u",
+  "type": "tvchanel",
+  "topics": ["lol_tvchanel"]
+}
